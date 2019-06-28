@@ -21,3 +21,20 @@ Helpful Links:
 - https://tour.golang.org/welcome/1
 - https://vuejs.org/v2/guide/
 - https://docs.python.org/3/
+
+
+
+# Hero.py
+
+**Implemented:**
+
+From what I remember (forgot to update readme and did hero.go a bit back), most stuff works I believe. 
+This was a lot of fun! I had a good time doing this project, and I learned a lot about go and I absolutely love the syntax.
+Attempted implementation of mutexes, unsure how well it is implemented.
+
+Tested with postman!
+
+
+# Vue Project
+
+I discussed this with Hanie (the recruiter that connected me to this job opportunity) and I was busy with work the past week and I honestly put it off until yesterday, but then fell ill and left myself bed-ridden the entire day. Not feeling that much better today, will not be attempting by 12pm today. Although unfortunate that I fell ill as this was a lack of responsibility by me, I will take full blame. I am however interested in what this project is and will be attempting to solve this weekend just on my own time for a learning experience if I am feeling better. 
